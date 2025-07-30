@@ -1,0 +1,7 @@
+rabbitmq:
+  url: amqp://localhost:5672
+database:
+  url: postgresql://localhost:5432/app
+workers: 3
+server:
+  port: 5000
